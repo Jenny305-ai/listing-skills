@@ -1,0 +1,4 @@
+interface:
+  display_name: "Petitwishes 服装 Listing"
+  short_description: "批量处理 Petitwishes 服装草稿并生成 Listing"
+  default_prompt: "使用 $petitwishes-apparel-listing 读取当前筛选的一批服装草稿，按关键词表选词并拦截敏感词，批量生成英文 Listing 预览与 QA，不写入 Shopify。"
