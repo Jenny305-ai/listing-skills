@@ -1,0 +1,4 @@
+interface:
+  display_name: "Babelio 精品 Listing"
+  short_description: "批量处理 Babelio 精品草稿并生成英文 Listing"
+  default_prompt: "使用 $babelio-premium-listing 读取当前筛选的一批 Babelio 精品草稿，结合对应 Amazon 标题与五点和 Babelio SEO 规则，批量生成英文 Listing 预览与 QA，不写入 Shopify。"
