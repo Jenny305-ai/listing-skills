@@ -1,0 +1,4 @@
+interface:
+  display_name: "铺货商品 Listing"
+  short_description: "批量处理普通铺货草稿并生成英文 Listing"
+  default_prompt: "使用 $bulk-product-listing 读取当前筛选的一批 Babelio 铺货草稿，按 Babelio SEO 规则批量生成英文 Listing 预览与 QA，不写入 Shopify。"
